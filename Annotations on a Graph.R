@@ -1,4 +1,6 @@
-load_libs(c("readxl","plotly","scales"))
+library(readxl)
+library(plotly)
+library(scales)
 
 #SET PATH FOR INPUT AND OUTPUT FILES
 path <- "C:/Users/marce/Documents/Python/SWD/Challenges/OCT 2023/"
